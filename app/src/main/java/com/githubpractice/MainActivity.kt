@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
         // Demo
         // Demo 2
         // Demo 4
+            // Demo 5
+        // test branch changes
         setContentView(R.layout.activity_main)
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
